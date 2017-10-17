@@ -1,6 +1,9 @@
 /* webcoder assignment CSS */
 
 /*  ----- HTML Body Styles -----  */
+
+
+
 body {
   position: relative;
   margin: 0;
@@ -9,6 +12,7 @@ body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   /* Padding for top navbar fixed  */
   padding-top: 70px; 
+
 }
 html {
   height: 100%;
@@ -68,6 +72,11 @@ html {
 @media (min-width: 1200px) {  
 
 }
+
+.jumbotron {
+  background-image: url('fuji.jpg');
+  height: 600px;
+} 
 
 /* GRID -  */
 
